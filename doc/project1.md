@@ -3,9 +3,6 @@ Design Document for Project 1: Threads
 
 ## Group Members
 
-* FirstName LastName <email@domain.example>
-* FirstName LastName <email@domain.example>
-* FirstName LastName <email@domain.example>
-* FirstName LastName <email@domain.example>
+* Shi Li <zeldaswd@gmail.com>
 
-Replace this text with your design document.
+We don't give a shit about the fucking design!
